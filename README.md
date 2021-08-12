@@ -76,6 +76,6 @@ To learn about how DGN works, check the following YouTube video:
 
 url to youtube project video
 
-## DGN on arXiv
+## RBGM on arXiv
 
 arxiv url 
