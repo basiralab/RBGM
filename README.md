@@ -1,12 +1,12 @@
 # Recurrent Brain Graph Mapper
-How to predict the evolution trajectory of brain graphs with a single observation?
+How to predict the evolution trajectory of brain graphs from a single observation (i.e., timepoint)?
  
 Please contact alptknheat@gmail.com for inquiries. Thanks.
 
 ![RBGM pipeline](figure_1.png)
 
 # Introduction
-This work is accepted at the MICCAI 2021 conference (early accept), Strasbourg, France.
+This work is accepted at the MICCAI PRIME 2021 conference, Strasbourg, France.
 > **Recurrent Brain Graph Mapper: A Geometric Deep Learning Framework to Predict Brain Graph Evolution.**
 > Alpay Tekin, Ahmed Nebli, and Islem Rekik
 > 
