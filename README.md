@@ -3,10 +3,10 @@ How to predict the evolution trajectory of brain graphs with a single observatio
  
 Please contact alptknheat@gmail.com for inquiries. Thanks.
 
-![RBGM pipline](figure_1.png)
+![RBGM pipeline](figure_1.png)
 
 # Introduction
-This work is accepted at the MICCAI 2020 conference (early accept), Strasbourg, France.
+This work is accepted at the MICCAI 2021 conference (early accept), Strasbourg, France.
 > **Recurrent Brain Graph Mapper: A Geometric Deep Learning Framework to Predict Brain Graph Evolution.**
 > Alpay Tekin, Ahmed Nebli, and Islem Rekik
 > 
@@ -22,9 +22,9 @@ This code was implemented using Python 3.8 (Anaconda) on Windows 10.
 
 
 ## Installation
-### *Anaconda Installattion*
+### *Anaconda Installation*
 * Go to  https://www.anaconda.com/products/individual
-* Download version for your system (We used Python 3.8  on 64bit Windows 10 )
+* Download version for your system (We used Python 3.8  on 64-bit Windows 10 )
 * Install the platform
 * Create a conda environment by typing:  ```conda create –n rbgm pip python=3.8 ```
 
@@ -42,7 +42,7 @@ $ pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-lates
 $ pip install torch-geometric 
 ```
 ## Data Format
-We represent each brain graph as a symmetric connectivity matrix therefore our model expects you to provide the path of matrices saved as a text file[#Subjects, #Nodes, #Nodes]. You can run the create_data.py to create data. If you want to use your dataset, 
+We represent each brain graph as a symmetric connectivity matrix therefore our model expects you to provide the path of matrices saved as a text file [#Subjects, #Nodes, #Nodes]. You can run the create_data.py to create data. If you want to use your dataset, 
 you should put your data into the data folder and adjust the paths in data_utils.py accordingly.
 
 ## Run RBGM
@@ -68,14 +68,15 @@ The figure demonstrates an example of output for 113 subjects. Each subject has 
 
 ## YouTube videos to install and run the code and understand how RBGM works
 
-To install and run DGN, check the following YouTube video: 
+To install and run RBGM, check the following YouTube video: 
 
 url to youtube github code video
 
-To learn about how DGN works, check the following YouTube video: 
+To learn about how RBGM works, check the following YouTube video: 
 
 url to youtube project video
 
 ## RBGM on arXiv
 
 arxiv url 
+ 
