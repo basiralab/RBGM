@@ -70,13 +70,26 @@ The figure demonstrates an example of output for 113 subjects. Each subject has 
 
 To install and run RBGM, check the following YouTube video: 
 
-url to youtube github code video
+https://youtu.be/IkQo9MQHKWo
 
 To learn about how RBGM works, check the following YouTube video: 
 
-url to youtube project video
+https://youtu.be/QHhvJPyrrSw
+
+# Please cite the following paper when using RBGM:
+
+```latex
+@incollection{tekin2021recurrent,
+  title={Recurrent Brain Graph Mapper for Predicting Time-Dependent Brain Graph Evaluation Trajectory},
+  author={Tekin, Alpay and Nebli, Ahmed and Rekik, Islem},
+  booktitle={Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health},
+  pages={180--190},
+  year={2021},
+  publisher={Springer}
+}
+```
 
 ## RBGM on arXiv
 
-arxiv url 
+to add.
  
