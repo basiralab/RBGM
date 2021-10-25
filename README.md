@@ -76,6 +76,10 @@ To learn about how RBGM works, check the following YouTube video:
 
 https://youtu.be/QHhvJPyrrSw
 
+# RBGM paper on arXiv
+
+You can download the paper at https://arxiv.org/abs/2110.11237
+
 # Please cite the following paper when using RBGM:
 
 ```latex
@@ -89,7 +93,4 @@ https://youtu.be/QHhvJPyrrSw
 }
 ```
 
-## RBGM on arXiv
 
-to add.
- 
